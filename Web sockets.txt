@@ -1,0 +1,7 @@
+web sockets (ws) -> enables real-time bidirectional event-based communication. 
+
+same as http and https but bi directional for real-time application
+
+socket.io
+It works on every platform, browser or device, 
+focusing equally on reliability and speed. Socket.IO is built on top of the WebSockets API (Client side) and Node. js.
